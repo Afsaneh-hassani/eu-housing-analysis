@@ -6,9 +6,9 @@ An end-to-end data analysis project: raw Eurostat data → cleaning with Python 
 
 ## Dashboard
 
-![Overview](dashboard/overview.png)
+![Overview](dashboard/overview.PNG)
 
-![2008 crisis](dashboard/crisis_2008.png)
+![2008 crisis](dashboard/crisis_2008.PNG)
 
 *A PDF export is available in [`dashboard/eu_housing_dashboard.pdf`](dashboard/eu_housing_dashboard.pdf).*
 
